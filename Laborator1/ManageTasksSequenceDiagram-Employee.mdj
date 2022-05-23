@@ -917,7 +917,7 @@
 									"font": "Arial;13;0",
 									"left": 269.5,
 									"top": 279.5,
-									"width": 217,
+									"width": 218.04443359375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/Wd1rXaFdOlw="
@@ -1396,7 +1396,7 @@
 									"font": "Arial;13;0",
 									"left": 233,
 									"top": 388.5,
-									"width": 119,
+									"width": 119.8017578125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/WeCE56MKdPc="
@@ -1701,7 +1701,7 @@
 									"font": "Arial;13;0",
 									"left": 248.5,
 									"top": 524.5,
-									"width": 117,
+									"width": 117.6181640625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/WeJtA6Q8C0Y="
@@ -2275,7 +2275,7 @@
 									"font": "Arial;13;0",
 									"left": 561,
 									"top": 524.5,
-									"width": 80,
+									"width": 80.814453125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/WeTMjqVKPwE="
@@ -2580,7 +2580,7 @@
 									"font": "Arial;13;0",
 									"left": 467.5,
 									"top": 388.5,
-									"width": 210,
+									"width": 210.1162109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/Wee6vqdbXuw="
@@ -2885,7 +2885,7 @@
 									"font": "Arial;13;0",
 									"left": 262,
 									"top": 204.5,
-									"width": 220,
+									"width": 220.95166015625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/We94Q6sbSpg="
@@ -3095,7 +3095,7 @@
 									"font": "Arial;13;0",
 									"left": 348.5,
 									"top": 124.5,
-									"width": 175,
+									"width": 175.43896484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/WfgZLavltJk="
@@ -3495,7 +3495,7 @@
 									"font": "Arial;13;0",
 									"left": 232.5,
 									"top": 52.5,
-									"width": 154,
+									"width": 155.208984375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/WfxPPLBOERU="
@@ -3705,7 +3705,7 @@
 									"font": "Arial;13;0",
 									"left": 473,
 									"top": 52.5,
-									"width": 157,
+									"width": 158.07177734375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/Wf1MOLDqPOw="
@@ -4117,7 +4117,7 @@
 									"font": "Arial;13;0",
 									"left": 227.5,
 									"top": 604.5,
-									"width": 131,
+									"width": 131.86865234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/q+n40FoLxPQ="
@@ -17219,9 +17219,9 @@
 													},
 													"fillColor": "#00a9ff",
 													"font": "Arial;13;0",
-													"left": 22.55908203125,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 128.06103515625,
+													"width": 141.20703125,
 													"height": 13,
 													"text": "LogInSequenceDiagram"
 												},
@@ -17235,7 +17235,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -22339,9 +22339,9 @@
 													},
 													"fillColor": "#00a9ff",
 													"font": "Arial;13;0",
-													"left": 22.55908203125,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 136.73193359375,
+													"width": 151.31884765625,
 													"height": 13,
 													"text": "LogOutSequenceDiagram"
 												},
@@ -22355,7 +22355,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -24842,9 +24842,9 @@
 													},
 													"fillColor": "#38ff38",
 													"font": "Arial;13;0",
-													"left": 62.55908203125,
+													"left": 64.72998046875,
 													"top": 5,
-													"width": 182.2001953125,
+													"width": 202.626953125,
 													"height": 13,
 													"text": "ManageAccountSequenceDiagram"
 												},
@@ -24858,7 +24858,7 @@
 													"font": "Arial;13;1",
 													"left": 45,
 													"top": 5,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -27598,9 +27598,9 @@
 													},
 													"fillColor": "#ff8056",
 													"font": "Arial;13;0",
-													"left": 22.55908203125,
+													"left": 24.72998046875,
 													"top": 13,
-													"width": 224.615234375,
+													"width": 251.021484375,
 													"height": 13,
 													"text": "ManageTasksSequenceDiagram-Employee"
 												},
@@ -27614,7 +27614,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -30847,9 +30847,9 @@
 													},
 													"fillColor": "#ff8056",
 													"font": "Arial;13;0",
-													"left": 62.55908203125,
+													"left": 64.72998046875,
 													"top": 5,
-													"width": 167.58154296875,
+													"width": 188.88427734375,
 													"height": 13,
 													"text": "ManageTasksSequenceDiagram"
 												},
@@ -30863,7 +30863,7 @@
 													"font": "Arial;13;1",
 													"left": 45,
 													"top": 5,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -34778,9 +34778,9 @@
 													},
 													"fillColor": "#ff8056",
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 231.15966796875,
+													"width": 253.8779296875,
 													"height": 13,
 													"text": "ManageTasksCommunicationDiagram-Boss"
 												},
@@ -34794,7 +34794,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
